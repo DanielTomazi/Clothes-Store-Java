@@ -8,6 +8,7 @@ Grupo:
 - [Cynthia Rodrigues Di Poli Ribamar](https://github.com/cynthiaribamar);
 - [Fernando Gonçalves Andrade Bilha](https//github.com/liinqy);
 - [Paulo Henrique Silva Guimarães](https://github.com/PaulofrontHenrique);
+- [Vitor Macedo Carvalho dos Santos](https://github.com/);
 
 **Para utilizar o sistema é necessário fazer um login, utilizando 'admin' como usuário e senha.**
 

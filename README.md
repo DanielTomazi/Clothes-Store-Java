@@ -6,7 +6,7 @@ O projeto consistia em criar um sistema comercial utilizando Java.
 Grupo:
 - [Daniel Tomazi de Oliveira](https://github.com/DanielTomazi);
 - [Cynthia Rodrigues Di Poli Ribamar](https://github.com/cynthiaribamar);
-- [Fernando Gonçalves Andrade Bilha](httpsgit://github.com/liinqy);
+- [Fernando Gonçalves Andrade Bilha](https//github.com/liinqy);
 - [Paulo Henrique Silva Guimarães](https://github.com/PaulofrontHenrique);
 
 **Para utilizar o sistema é necessário fazer um login, utilizando 'admin' como usuário e senha.**

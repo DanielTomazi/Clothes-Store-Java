@@ -3,9 +3,11 @@ Este sistema foi um projeto desenvolvido para o projeto semestral da Universidad
 
 O projeto consistia em criar um sistema comercial utilizando Java.
 
-Grupo:
+Desenvolvedores:
 - [Daniel Tomazi de Oliveira](https://github.com/DanielTomazi);
 - [Cynthia Rodrigues Di Poli Ribamar](https://github.com/cynthiaribamar);
+
+Documentação:
 - [Fernando Gonçalves Andrade Bilha](https//github.com/liinqy);
 - [Paulo Henrique Silva Guimarães](https://github.com/PaulofrontHenrique);
 - [Vitor Macedo Carvalho dos Santos](https://github.com/);

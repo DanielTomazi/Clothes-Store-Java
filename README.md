@@ -1,4 +1,4 @@
-# Sistema de Gestão para Lojas de Roupas
+# Sistema de Gestão para Lojas de Roupas em Java
 Este sistema foi um projeto desenvolvido para o projeto semestral da Universidade Nove de Julho.
 
 O projeto consistia em criar um sistema comercial utilizando Java.

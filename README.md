@@ -5,9 +5,9 @@ O projeto consistia em criar um sistema comercial utilizando Java.
 
 Desenvolvedores:
 - [Daniel Tomazi de Oliveira](https://github.com/DanielTomazi);
-- [Cynthia Rodrigues Di Poli Ribamar](https://github.com/cynthiaribamar);
 
 Documentação:
+- [Cynthia Rodrigues Di Poli Ribamar](https://github.com/cynthiaribamar);
 - [Fernando Gonçalves Andrade Bilha](https//github.com/liinqy);
 - [Paulo Henrique Silva Guimarães](https://github.com/PaulofrontHenrique);
 - [Vitor Macedo Carvalho dos Santos](https://github.com/VitorMaced0);
